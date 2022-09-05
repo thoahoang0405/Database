@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Di+Il7XnESDFBVLePe3qDYJ0bDvFwJNgmyWjycqKEy8Hii0+kSZrgvyx4Rc/LlXLlvb9RhYO5+BaTyGr8uY2sg==",
+  "success": true,
+  "projectFilePath": "F:\\Học MiSa2\\MISA.WEB07.THOA\\MISA.WEB07.CNTT2.COMMON\\MISA.WEB07.CNTT2.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.12\\mysqlconnector.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

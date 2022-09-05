@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zo9mIOJtu/k7rr4DJhVK2V0piyq0dY/8z9FfUtD62WMoZCkIMOj8lFFAwbpjSeOi5yh5ERNs72uyk2sRI9jqcA==",
+  "success": false,
+  "projectFilePath": "F:\\Học MiSa2\\MISA.WEB07.THOA\\MISA.WEB07.THOA.API\\MISA.WEB07.CNTT2.THOA.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.4.0\\swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: MySqlConnector from 2.1.12 to 2.1.11. Reference the package directly from the project to select a different version. \r\n MISA.WEB07.CNTT2.THOA.API -> MISA.WEB07.CNTT2.Common -> MySqlConnector (>= 2.1.12) \r\n MISA.WEB07.CNTT2.THOA.API -> MySqlConnector (>= 2.1.11)",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

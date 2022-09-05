@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.WEB07.CNTT2.THOA.API", "MISA.WEB07.THOA.API\MISA.WEB07.CNTT2.THOA.API.csproj", "{EA92B892-3BF0-49B6-8365-1CBE094FFE33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E8531C8-8651-4AAD-B0BC-7A9A448CA71E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.WEB07.CNTT2.BL", "MISA.WEB07.CNTT2.BL\MISA.WEB07.CNTT2.BL.csproj", "{B17D1578-B9F3-4AF3-AC3D-E3754E32526B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.WEB07.CNTT2.DL", "MISA.WEB07.CNTT2.DL\MISA.WEB07.CNTT2.DL.csproj", "{9DCDC250-999A-44D5-B4B8-6B74731A5B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.WEB07.CNTT2.Common", "MISA.WEB07.CNTT2.COMMON\MISA.WEB07.CNTT2.Common.csproj", "{378CD844-9A9D-4A65-B908-89C81DC8B0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.WEB07.CNTT2.API.NTier", "MISA.WEB07.CNTT2.Tier\MISA.WEB07.CNTT2.API.NTier.csproj", "{D419F2F4-55AF-4DE5-BC0C-F10D8C9B2F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA92B892-3BF0-49B6-8365-1CBE094FFE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA92B892-3BF0-49B6-8365-1CBE094FFE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA92B892-3BF0-49B6-8365-1CBE094FFE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA92B892-3BF0-49B6-8365-1CBE094FFE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17D1578-B9F3-4AF3-AC3D-E3754E32526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17D1578-B9F3-4AF3-AC3D-E3754E32526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17D1578-B9F3-4AF3-AC3D-E3754E32526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17D1578-B9F3-4AF3-AC3D-E3754E32526B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCDC250-999A-44D5-B4B8-6B74731A5B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCDC250-999A-44D5-B4B8-6B74731A5B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCDC250-999A-44D5-B4B8-6B74731A5B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCDC250-999A-44D5-B4B8-6B74731A5B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378CD844-9A9D-4A65-B908-89C81DC8B0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378CD844-9A9D-4A65-B908-89C81DC8B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378CD844-9A9D-4A65-B908-89C81DC8B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378CD844-9A9D-4A65-B908-89C81DC8B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D419F2F4-55AF-4DE5-BC0C-F10D8C9B2F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D419F2F4-55AF-4DE5-BC0C-F10D8C9B2F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D419F2F4-55AF-4DE5-BC0C-F10D8C9B2F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D419F2F4-55AF-4DE5-BC0C-F10D8C9B2F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7EF72CD-6EA3-474F-B738-34600A2582F1}
+	EndGlobalSection
+EndGlobal

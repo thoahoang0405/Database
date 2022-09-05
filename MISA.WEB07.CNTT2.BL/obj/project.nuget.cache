@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCxcecIY62GhPOv5AW25hGY5ZQ24nANtrFP7JsVBz7UTltPke1ggZOzP6sRBaF4Mo0QEH4gZ4DWi1rLe+ebRqg==",
+  "success": true,
+  "projectFilePath": "F:\\Học MiSa2\\MISA.WEB07.THOA\\MISA.WEB07.CNTT2.BL\\MISA.WEB07.CNTT2.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.12\\mysqlconnector.2.1.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.4.0\\swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
